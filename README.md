@@ -1,5 +1,5 @@
 # Apex Legends Multi
-Apex Legends Multi is a tool designed for use with the game Apex Legends. It is a cheat and hack program that claims to be completely undetectable. The author of this project is laskapikeyeu. 
+Apex Legends Multi is a tool designed for use with the game Apex Legends. It is a cheat and hack program that is completely undetectable. The author of this project is laskapikeyeu. 
 
 ## Download
 1. Go to the [releases tab](https://github.com/laskapikeyeu/apex-legends-multi/releases).
